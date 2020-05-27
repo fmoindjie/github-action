@@ -1,4 +1,6 @@
 {
+    "name": "symfony",
+    "description": "testing",
     "type": "project",
     "license": "proprietary",
     "require": {
