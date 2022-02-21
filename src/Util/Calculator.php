@@ -6,7 +6,7 @@ class Calculator
 {
     public function add($a, $b)
     {
-    	// test unitaire
+    	// test unitaire Fayad
         return $a + $b;
     }
 }
